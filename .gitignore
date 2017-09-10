@@ -1,4 +1,6 @@
+.classpath
 *.class
 **/bin/
 **/lib/
+**/.settings/
 **/test-output/
