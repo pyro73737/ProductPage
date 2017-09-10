@@ -27,7 +27,7 @@ public class ProductPageTest {
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 	}
 	
-	@Test(description="Navigate to and test the Uptake Products page")
+	@Test(description="Navigate to and test the Uptake Products page", groups = {"regression"})
 	public void productPageTest() throws InterruptedException{		
 		Home homePage = new Home(driver);
 		Products productsPage = new Products(driver);
