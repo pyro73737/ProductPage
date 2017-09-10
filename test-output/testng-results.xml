@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19359" started-at="2017-09-10T02:22:27Z" finished-at="2017-09-10T02:22:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19359" started-at="2017-09-10T02:22:27Z" finished-at="2017-09-10T02:22:46Z">
+      <class name="tests.ProductPageTest">
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:tests.ProductPageTest@1ceabc1]" name="testSetup" is-config="true" duration-ms="3389" started-at="2017-09-09T21:22:27Z" finished-at="2017-09-09T21:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="productPageTest()[pri:0, instance:tests.ProductPageTest@1ceabc1]" name="productPageTest" duration-ms="15961" started-at="2017-09-09T21:22:30Z" description="Navigate to and test the Uptake Products page" finished-at="2017-09-09T21:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productPageTest -->
+        <test-method status="PASS" signature="testCleanUp()[pri:0, instance:tests.ProductPageTest@1ceabc1]" name="testCleanUp" is-config="true" duration-ms="0" started-at="2017-09-09T21:22:46Z" finished-at="2017-09-09T21:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCleanUp -->
+      </class> <!-- tests.ProductPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
