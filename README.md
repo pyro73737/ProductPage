@@ -1,3 +1,0 @@
-# Uptake-Coding-Exercise
-
-
